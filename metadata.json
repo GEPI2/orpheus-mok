@@ -1,0 +1,6 @@
+{
+  "name": "Orpheus",
+  "description": "밴드부 합주 준비부터 공연까지 올인원 밴드 운영 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
